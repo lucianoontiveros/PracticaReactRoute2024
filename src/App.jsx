@@ -12,7 +12,7 @@ import Blog from './paginas/Blog'
 
 function App() {
 
-
+  // Deberiamos mejorar como se estructura la pagina para diferentes dispotivos. 
   return (
     <>
       <Nav_bar/>
